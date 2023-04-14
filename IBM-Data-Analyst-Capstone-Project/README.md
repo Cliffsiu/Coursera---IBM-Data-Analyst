@@ -41,10 +41,9 @@ When the data is ready you will then want to apply statistical techniques to ana
 You will be evaluated using quizzes in each module as well as the final project presentation.
 
 
-
-
-
-
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 # Rundown of this repo
 
