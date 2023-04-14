@@ -1,14 +1,94 @@
-## Project Overview
-For this project, you will assume the role of a Data Scientist / Data Analyst working for a new startup investment firm that helps customers invest their money in stocks. Your job is to extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. After collecting this data you will visualize it in a dashboard to identify patterns or trends. The stocks we will work with are Tesla, Amazon, AMD, and GameStop.
+# IBM-Data-Analyst-Capstone-Project
 
-## Dashboard Analytics Displayed
+This is a coursera capstone projects for data analyst.
+It contain all projects on each week.
 
-A dashboard often provides a view of key performance indicators in a clear way. Analyzing a data set and extracting key performance indicators will be practiced. Prompts will be used to support learning in accessing and displaying data in dashboards. Learning how to display key performance indicators on a dashboard will be included in this assignment. We will be using Plotly in this course for data visualization and is not a requirement to take this course.
 
-In the Python for Data Science, AI and Development course you utilized Skills Network Labs for hands-on labs.
+## Task
 
-For this project you will use Skills Network Labs and Watson Studio. Skills Network Labs is a sandbox environment for learning and completing labs in courses. Whereas Watson Studio, a component of IBM Cloud Pak for Data, is a suite of tools and a collaborative environment for data scientists, data analysts, AI and machine learning engineers and domain experts to develop and deploy your projects.
+You have recently been hired as a Data Analyst by a global IT and business consulting services firm that is known for their expertise in IT solutions and their team of highly experienced IT consultants.  In order to keep pace with changing technologies and remain competitive, your organization regularly analyzes data to help identify future skill requirements. 
 
-## Review criteria
+As a Data Analyst, you will be assisting with this initiative and have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills. 
 
-There are two hands-on labs on Extracting Stock Data and one assignment to complete. You will be judged by completing two quizzes and one peer review assignment. The quizzes will test you based on the output of the hands-on labs. In the peer review assignment you will share and take screen shots of the outcomes of your assignment.
+Your first task is to collect the top programming skills that are most in demand from various sources including:
+
+- Job postings
+
+- Training portals
+
+- Surveys
+
+Once you have collected enough data, you will begin analyzing the data and identify insights and trends that may include the following:
+
+- What are the top programming languages in demand?
+
+- What are the top database skills in demand?
+
+- What are the popular IDEs?
+
+You will begin by scraping internet web sites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases.   
+ 
+ 
+
+Once this is completed, you will make that data ready for analysis using data wrangling techniques. 
+ 
+  
+ 
+ 
+
+When the data is ready you will then want to apply statistical techniques to analyze the data.  Then bring all of your information together by using  IBM Cognos Analytics to create your dashboard. And finally, show off your storytelling skills by sharing your findings in a presentation.
+
+You will be evaluated using quizzes in each module as well as the final project presentation.
+
+
+
+## Rundown of this repo
+
+### Module 1: Data Collection
+ 
+- Collecting Data Using APIs
+
+- Collecting Data Using Webscraping
+
+- Exploring Data
+
+### Module 2: Data Wrangling
+ 
+- Finding Missing Values
+
+- Determine Missing Values
+
+- Finding Duplicates
+
+- Removing Duplicates
+
+- Normalizing Data
+
+### Module 3: Exploratory Data Analysis
+
+- Distribution
+
+- Outliers
+
+- Correlation
+
+### Module 4: Data Visualization
+ 
+
+- Visualizing Distribution of Data
+
+- Relationship
+
+- Composition
+
+- Comparison
+
+### Module 5: Dashboard
+
+- Creation
+
+- Dashboards
+
+### Module 6: Presentation of Findings
+
+- Final Presentation
