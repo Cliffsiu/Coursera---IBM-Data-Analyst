@@ -43,7 +43,7 @@ You will be evaluated using quizzes in each module as well as the final project 
 
 <br/><br/>
 <br/><br/>
-<br/><br/>
+
 
 # Rundown of this repo
 
