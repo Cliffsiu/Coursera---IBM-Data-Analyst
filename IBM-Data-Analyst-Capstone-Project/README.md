@@ -42,6 +42,10 @@ You will be evaluated using quizzes in each module as well as the final project 
 
 
 
+
+
+
+
 # Rundown of this repo
 
 ## Module 1: Data Collection
